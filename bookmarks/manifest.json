@@ -1,0 +1,14 @@
+{
+  "name": "Bookmarks Example",
+  "description": "Bookmark list",
+  "version": "1.0.0",
+  "manifest_version": 3,
+  "permissions": [
+    "bookmarks"
+  ],
+  "action": {
+    "default_title": "My Bookmarks!",
+    "default_icon": "icon.png",
+    "default_popup": "popup.html"
+  }
+}
